@@ -2,7 +2,7 @@
 //  main.cpp
 //  monster world
 //
-//  Created by 汪逸阳 on 2021/8/11.
+//  Created by ateb14 on 2021/8/11.
 //
 #include <iostream>
 #include <string>
